@@ -1,0 +1,5 @@
+# The rendered clip and the working files behind it are not part of the entry
+# repository: the entry is the video on YouTube, and VIDEO.json names it.
+clip/
+work/
+out/
